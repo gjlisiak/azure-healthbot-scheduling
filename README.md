@@ -35,8 +35,8 @@ Shifts API Required Environment Variables
 - `shiftsClientSecret` from App Registration
 - `shiftsUsername` account with access to manage Shifts
 - `shiftsPassword` password for account with access to manage Shifts
-- `shiftsGroupID`		
-- `shiftsTeamID`		
+- `shiftsGroupID` [Id starts with "TAG_"](https://docs.microsoft.com/en-us/graph/api/schedule-list-schedulinggroups?view=graph-rest-beta&tabs=http)		
+- `shiftsTeamID` [List joined Teams](https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams?view=graph-rest-1.0&tabs=http)		
 
 Also included is a sample for integrating with a location API.  I used the Walgreens store location API.  In order to do these in your demo environment, you will need to register for a Walgreens developer account.  Once you’ve done that, you can store your API key as an Environment variable as well.
 
