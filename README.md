@@ -1,4 +1,10 @@
 # Azure Health Bot Scheduling Integration
+
+See the [Scheduling Integration with the Azure Health Bot](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/scheduling-integration-with-the-azure-health-bot/ba-p/2117881) blog post for background and important context related to this Repo.
+
+**Important Notice regarding the Bookings API:**
+APIs under the /beta version in Microsoft Graph are subject to change. Use of these APIs in production applications is not supported. 
+
 Two sets of sample Health Bot scenarios are provided. 
 
 - Bookings
