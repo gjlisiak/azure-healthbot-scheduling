@@ -48,3 +48,6 @@ Shifts API Required Environment Variables
 Also included is a sample for integrating with a location API.  I used the Walgreens store location API.  In order to do these in your demo environment, you will need to register for a Walgreens developer account.  Once you’ve done that, you can store your API key as an Environment variable as well.
 
 - `walgreensAPIKey` api key from walgreens developer registration
+
+**Single Dose Vaccination Event**
+On 3/12/2021, added sample sceanrio based on the Bookings API for an organization looking to survey their employees for thier interest in receiving the single dose J&J vaccine and facilitate scheduling based on the date(s) of the scheduled events.  Bookings API configuration reference above must be in place in order to leverage this scenario.
